@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SimpleToolbarExample</string>
+    <string name="action_settings">Setting</string>
+</resources>
